@@ -3,11 +3,11 @@
 Contributors: alopeyk, bmoudi, hormozdi
 Tags: الوپیک, alopeyk, woocommerce, shipping, delivery, e-commerce, shop, iran
 Requires at least: 4.4
-Tested up to: 4.9.7
-Stable tag: 1.6.0
+Tested up to: 5.3.2
+Stable tag: 2.0.0
 Requires PHP: 5.6
 WC requires at least: 2.6
-WC tested up to: 3.4.3
+WC tested up to: 3.8.1
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -145,3 +145,11 @@ Sure, will be. Currently we are working on it and will be released as soon as it
 *   **Edit** : Improving autocomplete functionality
 *   **Edit** : Improving map functionality
 *   **Fix** : Fixing UI bugs
+= 2.0.0 =
+*   **Fix** : change cedarmap to parsimap
+*   **New** : handle cities
+*   **New** : Manage api env.
+*   **New** : Alopeyk summary widget for admin dashboard 
+*   **Fix** : Fixing map movement bugs for mobile view
+*   **Edit** : alopeyk profile page
+*   **New** : Handle Discount coupon for create order
